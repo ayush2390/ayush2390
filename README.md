@@ -29,3 +29,8 @@
 
 ![Satyam's github stats](https://github-readme-stats.vercel.app/api?username=ayush2390&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush2390&theme=radical)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
+
+
