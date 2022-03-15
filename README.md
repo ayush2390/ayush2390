@@ -10,7 +10,7 @@
 
 <br>
 
-- <img alt="GIF" src="https://github.com/ayush2390/graduation-cap/blob/main/graduation-cap-graduate.gif" width="20vw" /> A 21 year old, **B.tech** graduate in **Information Technology** field 🎓
+- <img alt="GIF" src="https://github.com/ayush2390/graduation-cap/blob/main/graduation-cap-graduate.gif" width="30vw" /> A 21 year old, **B.tech** graduate in **Information Technology** field 🎓
 - <img alt="GIF" src="https://github.com/ayush2390/web-development-gif/blob/main/hacker-pepe.gif" width="20vw" /> A **Frontend Developer and JavaScript Enthusiast** and currently learning **React**  ⚛.
 - <img alt="GIF" src="https://github.com/ayush2390/opportunities-gif/blob/main/back-to-work-work.gif" width="20vw" /> Looking on opportunities based on **Frontend Development** ✨
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" /> I Love **Machine Learning** and **Open CV**🌐
