@@ -1,6 +1,6 @@
 ### Hello all 👋
 
-# Myself Ayush Thakur&nbsp;<img src="https://tenor.com/blveD.gif" width="30px">
+# Myself Ayush Thakur&nbsp;<img src="https://github.com/ayush2390/Coder-icon/blob/main/man-technologist-people.gif" width="30px">
 
 
 <!-- 
