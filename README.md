@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+# Satyam Goyal&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+
+
+<!-- 
+    &nbsp; [![HitCount](http://hits.dwyl.com/SatYu26/SatYu26.svg)](http://hits.dwyl.com/SatYu26/SatYu26) 
+-->
+
+### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="24px">
+
+
 <!--
 **ayush2390/ayush2390** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
