@@ -33,4 +33,16 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush2390&theme=radical)<img src="https://github.com/ayush2390/illustration/blob/main/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863-removebg-p.png" alt="dinotocat" style="float: left; margin-left: 10px;" width="450px" />
 
+<br>
+
+## Connect with me:
+
+<p align="left">
+
+<a href = "linkedin.com/in/ayush-thakur-5b6351161/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="30px"/></a>
+<a href = "https://twitter.com/JSAyushThakur"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="30px"/></a>
+<a href = "https://www.instagram.com/ayushthakur2390/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="30px"/></a>
+</p>
+
+
 
