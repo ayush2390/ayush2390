@@ -31,6 +31,6 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush2390&theme=radical)<img src="https://github.com/ayush2390/illustration/blob/main/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863-removebg-p.png" alt="dinotocat" style="float: center; padding-left: 500px;" width="450px" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush2390&theme=radical)<img src="https://github.com/ayush2390/illustration/blob/main/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863-removebg-p.png" alt="dinotocat" style="float: left; margin-left: 10px;" width="450px" />
 
 
