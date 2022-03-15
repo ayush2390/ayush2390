@@ -1,3 +1,4 @@
+<a href="#"><img src="https://github.com/ayush2390/banner/blob/main/A%20Frontend%20Developer%20from%20India.png" width="100%" /></a>
 ### Hello all 👋
 
 # Myself Ayush Thakur&nbsp;<img src="https://github.com/ayush2390/Coder-icon/blob/main/man-technologist-people.gif" width="30px">
