@@ -1,13 +1,11 @@
 ### Hi there 👋
 
-# Satyam Goyal&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Myself Ayush Thakur&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 
 <!-- 
     &nbsp; [![HitCount](http://hits.dwyl.com/SatYu26/SatYu26.svg)](http://hits.dwyl.com/SatYu26/SatYu26) 
 -->
-
-### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="24px">
 
 
 <!--
