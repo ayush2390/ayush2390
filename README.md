@@ -23,3 +23,9 @@
 
 ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![WordPress](https://img.icons8.com/color/30/wordpress.png)![C++](https://img.icons8.com/color/30/c-plus-plus-logo.png)![C](https://img.icons8.com/color/30/c-programming.png)![Github](https://img.icons8.com/color-glass/30/github.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
 <br/>
+
+<br>
+
+
+![Satyam's github stats](https://github-readme-stats.vercel.app/api?username=ayush2390&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+
