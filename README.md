@@ -1,6 +1,6 @@
 ### Hello all 👋
 
-# Myself Ayush Thakur&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Myself Ayush Thakur&nbsp;<img src="https://tenor.com/blveD.gif" width="30px">
 
 
 <!-- 
