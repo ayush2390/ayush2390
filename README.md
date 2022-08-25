@@ -11,13 +11,13 @@
 
 <br>
 
-- <img alt="GIF" src="https://github.com/ayush2390/student-cap-gif/blob/main/hva-hogeschool-van-amsterdam.gif" width="1vw" /> A 21 year old, **B.tech** graduate in **Information Technology** field 🎓
-- <img alt="GIF" src="https://github.com/ayush2390/web-development-gif/blob/main/hacker-pepe.gif" width="30vw" /> A **Frontend Developer and JavaScript Enthusiast** and currently learning **React**  ⚛.
-- <img alt="GIF" src="https://github.com/ayush2390/opportunities-gif/blob/main/back-to-work-work.gif" width="30vw" /> Looking on opportunities based on **Frontend Development** ✨
-- <img alt="GIF" src="https://github.com/ayush2390/freelancer-gif/blob/main/aplausos-emoji.gif" width="30vw" /> Working as a **Freelancer** as **Content Writer** and **Web Developer** 🌐
-- <img alt="GIF" src="https://github.com/ayush2390/marvel-gif/blob/main/i-love-you-love.gif" width="30vw" /> Huge **Marvel** Fan and **Potterhead** 🦸‍♂️
-- <img alt="GIF" src="https://github.com/ayush2390/student-gif/blob/main/school-student.gif" width="30vw" /> **Fact:** I was the youngest in my whole college to clear graduation (at age 20) 😜
-- <img alt="GIF" src="https://github.com/ayush2390/star-gif/blob/main/%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C%D9%85%D9%86.gif" width="30vw" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.
+- <img alt="GIF" src="https://github.com/ayush2390/student-cap-gif/blob/main/hva-hogeschool-van-amsterdam.gif" width="60px" /> A 21 year old, **B.tech** graduate in **Information Technology** field 🎓
+- <img alt="GIF" src="https://github.com/ayush2390/web-development-gif/blob/main/hacker-pepe.gif" width="60px" /> A **Frontend Developer and JavaScript Enthusiast** and currently learning **React**  ⚛.
+- <img alt="GIF" src="https://github.com/ayush2390/opportunities-gif/blob/main/back-to-work-work.gif" width="60px" /> Looking on opportunities based on **Frontend Development** ✨
+- <img alt="GIF" src="https://github.com/ayush2390/freelancer-gif/blob/main/aplausos-emoji.gif" width="60px" /> Working as a **Freelancer** as **Content Writer** and **Web Developer** 🌐
+- <img alt="GIF" src="https://github.com/ayush2390/marvel-gif/blob/main/i-love-you-love.gif" width="60px" /> Huge **Marvel** Fan and **Potterhead** 🦸‍♂️
+- <img alt="GIF" src="https://github.com/ayush2390/student-gif/blob/main/school-student.gif" width="60px" /> **Fact:** I was the youngest in my whole college to clear graduation (at age 20) 😜
+- <img alt="GIF" src="https://github.com/ayush2390/star-gif/blob/main/%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C%D9%85%D9%86.gif" width="60px" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.
 <br>
 
 ## 🚀 Languages and Tools:
