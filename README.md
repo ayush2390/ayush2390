@@ -11,7 +11,7 @@
 
 <br>
 
-- <img alt="GIF" src="https://github.com/ayush2390/student-cap-gif/blob/main/hva-hogeschool-van-amsterdam.gif" width="30vw" /> A 21 year old, **B.tech** graduate in **Information Technology** field 🎓
+- <img alt="GIF" src="https://github.com/ayush2390/student-cap-gif/blob/main/hva-hogeschool-van-amsterdam.gif" width="1vw" /> A 21 year old, **B.tech** graduate in **Information Technology** field 🎓
 - <img alt="GIF" src="https://github.com/ayush2390/web-development-gif/blob/main/hacker-pepe.gif" width="30vw" /> A **Frontend Developer and JavaScript Enthusiast** and currently learning **React**  ⚛.
 - <img alt="GIF" src="https://github.com/ayush2390/opportunities-gif/blob/main/back-to-work-work.gif" width="30vw" /> Looking on opportunities based on **Frontend Development** ✨
 - <img alt="GIF" src="https://github.com/ayush2390/freelancer-gif/blob/main/aplausos-emoji.gif" width="30vw" /> Working as a **Freelancer** as **Content Writer** and **Web Developer** 🌐
